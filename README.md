@@ -26,13 +26,21 @@ ESP32 has advantage over other microcontrollers because of its small form factor
 
 ### Previoues Projects <br/>
 Before working in this project, i implemented alot of small projects which helped me with the car project like: <br/> 
-1- Controlling the ESP32's LED through Wifi. <br/>
-2- Controlling a single motor using ESP32 as access point <br/>
-3- Controlling 2 or more LED using webpage with ESP32 as server (AP) <br/>
+**1- Controlling the ESP32's LED through Wifi.** <br/>
+**2- Controlling a single motor using ESP32 as access point** <br/>
+**3- Controlling 2 or more LED using webpage with ESP32 as server (AP)** <br/>
+  
+<p align="center">
+  <video src="https://user-images.githubusercontent.com/5675794/130485089-36435a6d-22dd-44b7-adea-b4d47004394c.mp4">
+</p>
+
+<br/>
 <br/>
 
 ## ESP32
-![ESP32](https://user-images.githubusercontent.com/5675794/130447355-1972fd3d-514d-4743-ae26-0bb2fc784c8a.jpg) <br/> <br/>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/5675794/130447355-1972fd3d-514d-4743-ae26-0bb2fc784c8a.jpg" >
+</p>
 
 ### ESP32 Station Mode (STA) <br/>
 The ESP32 connects to an existing WiFi network (created by My wireless router) is called Station (STA)
@@ -41,13 +49,15 @@ The ESP32 connects to an existing WiFi network (created by My wireless router) i
 <br/>
 
 ## Motor Driver (TB6612FNG)
-
+<p align="center">
 <img src="https://user-images.githubusercontent.com/5675794/130448700-76826a1a-bd1a-4916-82d6-4a4471a27508.jpeg" alt="alt text" width="600" height="400"> 
-
+</p>
 
 # Smart Car with wireless control using ESP32 in Station Mode (and Web Server) <br/>
+<p align="center">
 <img src="https://user-images.githubusercontent.com/5675794/130461118-36ee4123-e561-4844-8394-6100970635a0.jpeg" alt="alt text" width="500" height="400">
 <img src="https://user-images.githubusercontent.com/5675794/130461128-4dc63c90-3b1c-4dea-8c14-9c9504438776.jpeg" alt="alt text" width="500" height="400">
+</p> <br/>
 
 ### Real-Time Simulation
 
