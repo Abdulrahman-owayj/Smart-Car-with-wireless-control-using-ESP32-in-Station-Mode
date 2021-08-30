@@ -59,8 +59,18 @@ The ESP32 connects to an existing WiFi network (created by My wireless router) i
 <img src="https://user-images.githubusercontent.com/5675794/130461128-4dc63c90-3b1c-4dea-8c14-9c9504438776.jpeg" alt="alt text" width="500" height="400">
 </p> <br/>
 
-### Real-Time Simulation
+## Control Panel
+<br/>
 
+<br/>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/5675794/131364040-5a3091df-6160-49f0-8f71-2ee23db3a22a.jpeg" alt="alt text" width="400" height="550" > &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; <img src="https://user-images.githubusercontent.com/5675794/131364062-469f2156-6a59-4407-8013-fcb1cb80d189.jpeg" alt="alt text" width="400" height="550" >
+</p>
+
+<br/>
+
+## Real-Time Simulation 
+<br/>
 
 https://user-images.githubusercontent.com/5675794/130477223-57eb97de-285b-4be8-b12d-701100f3e614.mp4
 
